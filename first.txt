@@ -1,0 +1,1 @@
+this is an attempt to design the undo redo logic of operating sytems as a non linear datastructure to support multiple redos across branches like git, but without all the meta data, for lightweight char storing task with Tui visuailzation.
